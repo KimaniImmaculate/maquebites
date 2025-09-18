@@ -3,7 +3,7 @@
 A simple, mobile-responsive fictional restaurant page built with **HTML5** and **CSS3**.  
 This project demonstrates the use of external CSS, multiple selectors, color formats, hover effects, box model properties, and responsive design.
 
----
+
 
 ## 🌟 Features
 - **Header** with restaurant name and navigation links.  
@@ -17,26 +17,14 @@ This project demonstrates the use of external CSS, multiple selectors, color for
 ## 🚀 Live Demo
 👉 [View Live Project](https://maquebites.netlify.app/)  
 
----
+
 
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3** (Flexbox, Grid, Media Queries)
 
----
 
-## 📂 Project Structure
-.
-├── index.html # Main HTML page
 
-├── style.css # External CSS file
-
-└── images/ # Folder for images
-
-yaml
-Copy code
-
----
 
 ## 📱 Mobile Responsiveness
 - Header stacks vertically on small screens.  
@@ -44,8 +32,8 @@ Copy code
 - Menu items collapse into a **single column**.  
 - Font sizes and banner height adjust for readability.  
 
----
 
 ## 📬 Contact
 Made with ❤️ for practice.  
 Feel free to connect or suggest improvements!
+
