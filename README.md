@@ -28,8 +28,10 @@ This project demonstrates the use of external CSS, multiple selectors, color for
 ## 📂 Project Structure
 .
 ├── index.html # Main HTML page
+
 ├── style.css # External CSS file
-└── screenshots/ # Folder for screenshots
+
+└── images/ # Folder for images
 
 yaml
 Copy code
